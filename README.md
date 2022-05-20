@@ -1,1 +1,1 @@
-# K-Fold-SVM-Vietnam-UIT-Student-feedbacks
+# K-Fold-ML-Vietnam-UIT-Student-feedbacks
